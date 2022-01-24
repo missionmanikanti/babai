@@ -1,0 +1,4 @@
+88,valid
+56,valid
+-34,invalid
+101,invalid
